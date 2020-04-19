@@ -12,9 +12,9 @@ Thanks for sharing!
 
 ```plaintext
 Greetings! How are you doing?
-**Nice and dandy like cotton candy!**
+*Nice and dandy like cotton candy!*
 Oh, how interesting. Tell me more!
-**Just went shopping.**
+*Just went shopping.*
 Thanks for sharing!
 ```
 
