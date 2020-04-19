@@ -1,26 +1,28 @@
-# Exercise 1.7 - Greeting
+# Exercise 1.8 - Converstion
 
-Write a program that prompts the user for their name with the message "What's your name?". When the user has written their name, the program has to print "Hi " followed by the user's name.
+Write a program that works as follows:
+
+```plaintext
+Greetings! How are you doing?
+*Good thank you!*
+Oh, how interesting. Tell me more!
+*Well, there's really nothing to tell.*
+Thanks for sharing!
+```
+
+```plaintext
+Greetings! How are you doing?
+**Nice and dandy like cotton candy!**
+Oh, how interesting. Tell me more!
+**Just went shopping.**
+Thanks for sharing!
+```
 
 The exercise template comes with a program template that includes the function and its call.
 
 ```python
-def greeting():
+def conversation():
     # Write your code here
     
-greeting()
-```
-
-Example output when user gives the name Ada.
-
-```plaintext
-*Ada*
-Hi Ada
-```
-
-Example output when user gives the name Lily.
-
-```plaintext
-*Lily*
-Hi Lily
+conversation()
 ```
