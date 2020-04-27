@@ -21,8 +21,9 @@ Thanks for sharing!
 The exercise template comes with a program template that includes the function and its call.
 
 ```python
-def conversation():
-    # Write your code here
-    
-conversation()
+def main():
+  #write your code below this line
+
+if __name__ == '__main__':
+    main()
 ```
