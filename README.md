@@ -1,4 +1,4 @@
-# Exercise 1.8 - Converstion
+# Exercise 1.8 - Conversation
 
 Write a program that works as follows:
 
